@@ -31,4 +31,4 @@ Here are some ideas to get you started:
 
 <img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnsdud981020"/>
 
-![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=JunYoungKr&show_icons=true&theme=dracula](https://github.com/AhnRian))
+![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=AhnRian&show_icons=true&theme=dracula](https://github.com/AhnRian))
