@@ -29,6 +29,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   </div>
 
-<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rlawnsdud981020"/>
+<img align="right" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=AhnRian"/>
 
 ![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=AhnRian&show_icons=true&theme=dracula])
