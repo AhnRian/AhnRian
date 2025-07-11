@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <div>
  <h3>🔭 I’m currently working on ...</h3>
- <img src="https://github.com/user-attachments/assets/c7d87a22-58fd-4436-89b0-965f3774847c" width="80" /> (2023.08~) 세종피어 : 세종대학교 캠퍼스 네트워킹 서비스 
+ <img src="https://github.com/user-attachments/assets/c7d87a22-58fd-4436-89b0-965f3774847c" width="80" /> (2023.08~2024.4) 세종피어 : 세종대학교 캠퍼스 네트워킹 서비스 
 </div>
 
  
